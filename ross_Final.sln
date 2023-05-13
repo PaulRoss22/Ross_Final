@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ross_Final", "ross_Final\ross_Final.csproj", "{8AF3251F-C3F6-4067-ABDE-44D533720CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ross_FinalTests", "ross_FinalTests\ross_FinalTests.csproj", "{9FE27D4F-E51A-4E6E-8FB3-F3BB4CD8C00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF3251F-C3F6-4067-ABDE-44D533720CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF3251F-C3F6-4067-ABDE-44D533720CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF3251F-C3F6-4067-ABDE-44D533720CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF3251F-C3F6-4067-ABDE-44D533720CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE27D4F-E51A-4E6E-8FB3-F3BB4CD8C00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE27D4F-E51A-4E6E-8FB3-F3BB4CD8C00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE27D4F-E51A-4E6E-8FB3-F3BB4CD8C00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE27D4F-E51A-4E6E-8FB3-F3BB4CD8C00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A3922F-3466-45F5-BC4A-AEE2941A5DAC}
+	EndGlobalSection
+EndGlobal
